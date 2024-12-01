@@ -5,6 +5,6 @@
 - 📫 How to reach me: melo4yxa77796@gmail.com
 
 Skills:
-team collaborator
-adaptive to learning 
-resistant to stress
+team collaborator,
+adaptive to learning,
+resistant to stress,
