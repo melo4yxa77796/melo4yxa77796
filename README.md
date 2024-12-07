@@ -1,6 +1,8 @@
 ## Hi there  my name Yuliia👋
 
-I am so excited to be part of this journey called Front-End.I have been working as a croupier for more than 10 years.I had highly developed skills in working with people.While working as part of a large casino team, I honed my skills as a team player.This gives me an advantage, as I possess strong soft skills.Quick adaptability and the ability to learn fast have been my superpower since I was a child.At the moment, I am continuing to learn and acquire hard skills in programming.
+I’m thrilled to embark on this exciting journey into Front-End development! With over 10 years of experience as a croupier, I’ve cultivated exceptional interpersonal skills and thrived as part of a dynamic casino team, sharpening my ability to work collaboratively. This background has given me a strong foundation in soft skills, such as communication and teamwork. My superpower has always been my quick adaptability and ability to learn new things swiftly, traits that have been with me since childhood.
+Currently, I’m focused on building my programming expertise and expanding my hard skills as I progress further in this domain. I also have several projects that you can explore below.
+
 
 - 🔭 I’m currently working on Meal-Sharing project
 - 🌱 I’m currently learning AI
